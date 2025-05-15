@@ -2,6 +2,7 @@ body { background-color: navy;}
 
 p {color: gold;
 text-align: center;}
+p a {color: gold;}
 
 .download a{color: white;
 left: 20%;}
